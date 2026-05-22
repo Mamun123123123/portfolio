@@ -99,7 +99,6 @@ const ProjectSection = () => {
                   {project.description}
                 </p>
 
-                {/* Tech */}
                 <div className="flex flex-wrap gap-2 mb-6">
                   {project.tech.map((tech, idx) => (
                     <span
