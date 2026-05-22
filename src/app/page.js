@@ -1,4 +1,5 @@
 import AboutSection from "@/components/AboutSection";
+import ContactSection from "@/components/ContactSection";
 import EducationSection from "@/components/EducationSection";
 import HomeSection from "@/components/HomeSection";
 import Navbar from "@/components/Navbar";
@@ -15,6 +16,7 @@ export default function Home() {
       <SkillsSection />
       <EducationSection />
       <ProjectSection />
+      <ContactSection />
     </div>
   );
 }

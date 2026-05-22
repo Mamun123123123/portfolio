@@ -50,7 +50,7 @@ const HomeSection = () => {
             <div className="flex flex-wrap gap-4 mt-8">
               <a
                 href="#"
-                download
+                
                 className="inline-flex items-center gap-2 bg-sky-500 hover:bg-sky-600 px-6 py-3 rounded-full font-semibold transition duration-300"
               >
                 <FaDownload />

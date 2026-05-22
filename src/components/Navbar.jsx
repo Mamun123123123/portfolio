@@ -44,8 +44,8 @@ const Navbar = () => {
 
        
           <a
-            href="/resume.pdf"
-            download
+            href="#"
+            
             className="hidden md:inline-block bg-sky-500 hover:bg-sky-600 text-white px-5 py-2 rounded-full font-medium transition duration-300"
           >
             Resume
@@ -78,7 +78,7 @@ const Navbar = () => {
 
               <a
                 href="#"
-                download
+                
                 className="bg-sky-500 hover:bg-sky-600 text-white text-center py-2 rounded-xl transition duration-300"
               >
                 Download Resume
