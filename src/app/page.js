@@ -1,4 +1,5 @@
 import AboutSection from "@/components/AboutSection";
+import EducationSection from "@/components/EducationSection";
 import HomeSection from "@/components/HomeSection";
 import Navbar from "@/components/Navbar";
 import SkillsSection from "@/components/SkillSection";
@@ -11,6 +12,7 @@ export default function Home() {
       <HomeSection />
       <AboutSection />
       <SkillsSection />
+      <EducationSection />
     </div>
   );
 }
